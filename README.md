@@ -14,7 +14,7 @@
 
         - `ls` 를 통해 현재 경로에 있는 모든 폴더와 파일의 목록을 터미널에 출력합니다
 
-    - `git clone https://github.com/tsum-18/basic-team.git` 명령어를 실행해 레포지토리를 복사합니다
+    - `git clone https://github.com/tsum-18/advanced-team.git` 명령어를 실행해 레포지토리를 복사합니다
 
 1. 과제를 작성하고 저장하세요
 
